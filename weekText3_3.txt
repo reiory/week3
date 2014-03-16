@@ -1,0 +1,7 @@
+145
+love 1
+forever 1
+trust 1
+me 2
+you 1
+i 4
